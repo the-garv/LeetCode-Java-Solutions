@@ -1,6 +1,6 @@
 # **Leetcode solutions in Java**
 This repo has Leetcode solutions. Each solution is in different file with name as title of leetcode question.
-The site will periodically be updated with new solutions from this repo!
+This repo will periodically be updated with new solutions!!
 
 ### Contributing guidlines: 
 > To contribute, please fork this repo and open a PR adding a missing solution.
